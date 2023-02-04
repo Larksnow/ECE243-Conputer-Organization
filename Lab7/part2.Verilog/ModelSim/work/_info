@@ -1,0 +1,187 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Study/2022winter/243/lab7/part2.Verilog/ModelSim
+vcount5
+Z1 !s110 1648072476
+!i10b 1
+!s100 hJiE5cc4j68c1_Ma;Q[3K3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I8ZZMf91_:UbAAg^Whg3>21
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1561778146
+Z5 8../part2.v
+Z6 F../part2.v
+!i122 10
+L0 27 10
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1648072476.000000
+Z9 !s107 ../top.v|../proc.v|../part2.v|../inst_mem.v|
+Z10 !s90 -reportprogress|300|../inst_mem.v|../part2.v|../proc.v|../top.v|
+!i113 1
+Z11 tCvgOpt 0
+vdec3to8
+R1
+!i10b 1
+!s100 Bl3^h3`gdofbkH:Cb[S2>2
+R2
+I]Y8mFn5]2aQ`BB8i>mdFG0
+R3
+R0
+Z12 w1648068176
+Z13 8../proc.v
+Z14 F../proc.v
+!i122 10
+L0 205 21
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vinst_mem
+R1
+!i10b 1
+!s100 ibZilIHOQ^Z016VbZdU:H2
+R2
+IA]^A^DgFN9Z<8EKg8lcY10
+R3
+R0
+w1570577572
+8../inst_mem.v
+F../inst_mem.v
+!i122 10
+L0 39 61
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vpart2
+R1
+!i10b 1
+!s100 [5ecR0Z^hm^3flob<nN5O2
+R2
+ImJIDY6YIECiX_bK_hPWEU2
+R3
+R0
+R4
+R5
+R6
+!i122 10
+L0 5 21
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vproc
+R1
+!i10b 1
+!s100 0j`1i<G9J>DLhGF;VT1fc1
+R2
+IWIBFaQ>>PnRnEien;@9AR2
+R3
+R0
+R12
+R13
+R14
+!i122 10
+L0 3 201
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vregn
+R1
+!i10b 1
+!s100 TL3hh09:Q=?Q7]JZMLdL03
+R2
+Iiz20ZlC^iWM26Io0ZJa[d3
+R3
+R0
+R12
+R13
+R14
+!i122 10
+L0 227 13
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vtestbench
+R1
+!i10b 1
+!s100 :dZQFl8aAoM1eAdzW[`Nz1
+R2
+IbXNoa[AE?O?3W7?Mi2l?F3
+R3
+R0
+w1570579132
+8testbench.v
+Ftestbench.v
+!i122 11
+L0 3 58
+R7
+r1
+!s85 0
+31
+R8
+!s107 testbench.v|
+!s90 -reportprogress|300|testbench.v|
+!i113 1
+R11
+vtop
+R1
+!i10b 1
+!s100 G0N;<E8<:hBgS]zEcPDP32
+R2
+IV@Qe<?a>OTUcQCToU6OQh0
+R3
+R0
+w1611077140
+8../top.v
+F../top.v
+!i122 10
+L0 1 18
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
